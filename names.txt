@@ -1,0 +1,14 @@
+person
+bicycle
+car
+van
+truck
+tricycle
+awning-tricycle
+bus
+motor
+others
+helmet
+reflective_vest
+head
+no_vest 
